@@ -20,6 +20,8 @@ SVG layers (from top to bottom):
 I made a custom cartridge by transplanting the ROM chip from a [NTSC cartridge](https://nescartdb.com/profile/view/224/metroid), to a Famicom game cartridge PCB using the proper MMC1A mapper [Tanigawa Kouji no Shougi Shinan II](https://nescartdb.com/profile/view/1462/tanigawa-kouji-no-shougi-shinan-ii) and using the shell of [Tetris Flash
 ](https://nescartdb.com/profile/view/2157/tetris-flash) which has the right red tone and holds a PCB having the same dimensions as Tanigawa's.
 
+[Corresponding Reddit post](https://www.reddit.com/r/Famicom/comments/1j2qmj9/i_made_a_custom_metroid_famicom_cartridge/).
+
 ![github](https://github.com/user-attachments/assets/a649ca00-423f-4a6b-91f6-a9de87d95a5a)
 
 
